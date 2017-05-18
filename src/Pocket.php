@@ -1,5 +1,5 @@
 <?php
-/**Testing it
+/**
  * php-Pocket
  *
  * A PHP library for interfacing with Pocket (getpocket.com)
